@@ -1,0 +1,12 @@
+{
+  "repository": "learnloop",
+  "title": "LearnLoop",
+  "description": "Локальное рабочее пространство для мини-курсов, тестов и отслеживания прогресса.",
+  "topics": [
+    "education",
+    "quiz",
+    "productivity",
+    "nodejs",
+    "javascript"
+  ]
+}
